@@ -44,7 +44,7 @@
 
 %\section{Experience}
 
-%\subsection{Director of Media Department}
+Director of Media Department
 
 Toronto, ON
 
@@ -63,7 +63,7 @@ University of Toronto Wu language club/ Aug 2020 to Current
 ·Selected décor and event materials fitting clients' requests and vision.
 
 
-%\subsection{Internship in China Construction Bank Suzhou, China}
+Internship in China Construction Bank Suzhou, China
 
 China Construction Bank/ Jul 2020 to Aug 2021
 
