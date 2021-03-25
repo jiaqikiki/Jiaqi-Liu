@@ -1,25 +1,5 @@
-\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
-\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
-\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
-%\geometry{landscape}                		% Activate for rotated page geometry
-%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
-\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
-								% TeX will automatically convert eps --> pdf in pdflatex		
-\usepackage{amssymb}
 
-%SetFonts
-
-%SetFonts
-
-
-\title{Personal Profile for Jiaqi Liu}
-\author{Jiaqi Liu}
-%\date{}							% Activate to display a given date or no date
-
-\begin{document}
-\maketitle
-
-%\section{Personal Information} 
+## Personal Information
 
 -Name: Jiaqi Liu
 
@@ -29,7 +9,7 @@
 
 -Summary: Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
 
-%\section{Skills}
+## Skills
 -Interdisciplinary teaching
 
 -Tutoring and after school help 
@@ -42,15 +22,15 @@
 
 -Flexible and adaptive
 
-%\section{Experience}
+## Experience
 
-Director of Media Department
+### ---Director of Media Department
 
 Toronto, ON
 
 University of Toronto Wu language club/ Aug 2020 to Current
 
-·Planned, coordinated and executed special club events, such as Spring Festival Gala, Mid-Autumn Festival and other large-scale activities.
+·Planned, coordinated and executed special club events, such as Spring Festival Gala, Mid-Autumn Festival and o-ther large-scale activities.
 
 ·Networked to obtain potential event sponsors.
 
@@ -63,7 +43,7 @@ University of Toronto Wu language club/ Aug 2020 to Current
 ·Selected décor and event materials fitting clients' requests and vision.
 
 
-Internship in China Construction Bank Suzhou, China
+### ---Internship in China Construction Bank Suzhou, China
 
 China Construction Bank/ Jul 2020 to Aug 2021
 
@@ -77,7 +57,7 @@ China Construction Bank/ Jul 2020 to Aug 2021
 
 ·Put together and executed loan documents.
 
-%\section{Education and Trainning}
+## Education and Trainning
 
 -Bachelor of Science: Economics&Statistics Major, Mathematics Minor 
 
@@ -89,5 +69,3 @@ China Construction Bank/ Jul 2020 to Aug 2021
 
 -Also Completed coursework in Computer Science, Psychology and Management
 
-
-\end{document}  
