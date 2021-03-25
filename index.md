@@ -9,22 +9,17 @@ Address: Toronto, ON M5G 1N6
 Summary: Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
 
 ## Skills 
+Interdisciplinary teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tutoring and after school help 
 
-```markdown
-Syntax highlighted code block
+Behavioral/cognitive skills development
 
-# Personal Information
-## Skills & Experience
-### Education & Trainning
+Interactive teaching/learning
 
+Student assessment and achievement 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Flexible and adaptive
 
 **Bold** and _Italic_ and `Code` text
 
