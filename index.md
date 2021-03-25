@@ -1,4 +1,25 @@
-## Personal Information
+\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+%\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+
+%SetFonts
+
+%SetFonts
+
+
+\title{Personal Profile for Jiaqi Liu}
+\author{Jiaqi Liu}
+%\date{}							% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+%\section{Personal Information} 
 
 -Name: Jiaqi Liu
 
@@ -8,7 +29,7 @@
 
 -Summary: Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
 
-## Skills 
+%\section{Skills}
 -Interdisciplinary teaching
 
 -Tutoring and after school help 
@@ -21,8 +42,7 @@
 
 -Flexible and adaptive
 
-
-## Experience
+%\section{Experience}
 
 -Director of Media Department
 
@@ -57,7 +77,7 @@ China Construction Bank/ Jul 2020 to Aug 2021
 
 ·Put together and executed loan documents.
 
-## Education & Trainning
+%\section{Education and Trainning}
 
 -Bachelor of Science: Economics&Statistics Major, Mathematics Minor 
 
@@ -68,3 +88,6 @@ China Construction Bank/ Jul 2020 to Aug 2021
 -Minor in Mathematics
 
 -Also Completed coursework in Computer Science, Psychology and Management
+
+
+\end{document}  
