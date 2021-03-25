@@ -28,7 +28,7 @@
 
 Toronto, ON
 
-University of Toronto Wu language club/ Aug 2020 to Current
+University of Toronto Wu language club/ From Aug 2020 to Current
 
 ·Planned, coordinated and executed special club events, such as Spring Festival Gala, Mid-Autumn Festival and o-ther large-scale activities.
 
@@ -45,7 +45,7 @@ University of Toronto Wu language club/ Aug 2020 to Current
 
 ### ---Internship in China Construction Bank Suzhou, China
 
-China Construction Bank/ Jul 2020 to Aug 2021
+China Construction Bank/ From Jul 2020 to Aug 2021
 
 ·Conducted special service and account transactions for customers, including ordering checks and placing stop payment orders.
 
