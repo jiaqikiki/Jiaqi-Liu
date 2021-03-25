@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Personal Information
 
-You can use the [editor on GitHub](https://github.com/jiaqikiki/Jiaqi-Liu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jiaqi Liu
+jiaqiki.liu@mail.utoronto.ca
+Toronto, ON M5G 1N6
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
 
 ### Markdown
 
