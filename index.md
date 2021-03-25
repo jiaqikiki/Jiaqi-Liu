@@ -21,17 +21,52 @@ Student assessment and achievement
 
 Flexible and adaptive
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaqikiki/Jiaqi-Liu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Director of Media Department
+
+Toronto, ON
+
+University of Toronto Wu language club/ Aug 2020 to Current
+
+Planned, coordinated and executed special club events, such as Spring Festival Gala, Mid-Autumn Festival and other large-scale activities.
+
+Networked to obtain potential event sponsors.
+
+Directed event production in collaboration with sponsors, hosts and internal teams. 
+
+Managed event logistics, including venue scheduling, accommodations and menu and beverage offerings.
+
+Coordinated vendors, timelines and budgets for events.
+
+Selected décor and event materials fitting clients' requests and vision.
+
+
+Internship in China Construction Bank Suzhou, China
+
+China Construction Bank/ Jul 2020 to Aug 2021
+
+Conducted special service and account transactions for customers, including ordering checks and placing stop payment orders.
+
+Helped customers open and close accounts, apply for loans and make sound financial decisions.
+
+Verified amounts and integrity of every check or funds transfer.
+
+Advised customers on bank products, services and financial planning options. 
+
+Put together and executed loan documents.
 
 ## Education & Trainning
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bachelor of Science: Economics&Statistics Major, Mathematics Minor 
+
+University Of Toronto Expected in Apr 2022
+
+Toronto
+
+Major in Economics and Statistics
+
+Minor in Mathematics
+
+Also Completed coursework in Computer Science, Psychology and Management
