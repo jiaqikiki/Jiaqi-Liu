@@ -1,12 +1,14 @@
 ## Personal Information
 
-Jiaqi Liu
-jiaqiki.liu@mail.utoronto.ca
-Toronto, ON M5G 1N6
+Name: Jiaqi Liu
 
-Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
+E-mail: jiaqiki.liu@mail.utoronto.ca
 
-### Markdown
+Address: Toronto, ON M5G 1N6
+
+Summary: Hardworking University student seeking internship. Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Consistently positive and friendly Teller committed to reaching business goals.
+
+## Skills 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,10 +33,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaqikiki/Jiaqi-Liu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Education & Trainning
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
