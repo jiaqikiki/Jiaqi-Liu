@@ -1,7 +1,7 @@
 
 ## Personal Information 
 
-![Favorite pic](https://i.pinimg.com/originals/4b/6f/ec/4b6fec352ad65acf6c1265201432dfa1.jpg)
+![Favorite pic](http://pic.17qq.com/img_qqtouxiang/90367412.jpeg)
 
 * Name: Jiaqi Liu 
 
