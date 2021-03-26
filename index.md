@@ -1,7 +1,9 @@
 
 ## Personal Information 
 
-* Name: Jiaqi Liu             ![Cute Cat](/Users/kiki77/Downloads/IMG_5987.heic)
+![Favorite pic](https://i.pinimg.com/originals/4b/6f/ec/4b6fec352ad65acf6c1265201432dfa1.jpg)
+
+* Name: Jiaqi Liu 
 
 * E-mail: jiaqiki.liu@mail.utoronto.ca
 
