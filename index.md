@@ -1,8 +1,6 @@
 
 ## Personal Information 
 
-![Favorite pic](http://pic.17qq.com/img_qqtouxiang/90367412.jpeg)
-
 * Name: Jiaqi Liu 
 
 * E-mail: jiaqiki.liu@mail.utoronto.ca
@@ -12,6 +10,7 @@
 * Summary: **Hardworking** University student seeking internship. **Self-motivate**d banking professional offering strong communication and quick thinking skills. **Works effectively** on teams, as well as **independently**, in fast-paced environments. **Consistently positive** and **friendly** Teller committed to reaching business goals.
 
 
+![](https://i.pinimg.com/originals/9a/1d/ca/9a1dca97b9d8c3ee829e14ce24e05c88.jpg)
 ## Skills
 
 * Strong sense of banking ethics 
